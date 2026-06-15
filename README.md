@@ -1,1 +1,126 @@
-# Sales Analysis Report
+# 📊 Sales Performance Analytics Dashboard (Power BI)
+
+An interactive business intelligence dashboard built in Power BI to analyze sales performance across products, customer segments, countries, and time periods. This project transforms raw sales data into actionable insights for strategic decision-making.
+
+---
+
+## 🧩 Business Problem
+
+Organizations often lack a clear, unified view of their sales performance across regions, products, and customer segments. This leads to:
+
+- Missed revenue opportunities  
+- Poor understanding of profitable segments  
+- Inefficient decision-making  
+- Limited visibility into market performance  
+
+This project addresses these challenges by building a centralized analytics dashboard for sales performance tracking.
+
+---
+
+## 🎯 Project Objective
+
+To design and develop a Power BI dashboard that enables stakeholders to:
+
+- Monitor overall sales and profitability
+- Identify top-performing products and markets
+- Analyze customer segment profitability
+- Track performance trends over time
+- Support data-driven business decisions
+
+---
+
+## 📌 Key Business Insights
+
+- 📈 Sales peaked in **October 2022**, generating **175.9% higher revenue** than the lowest-performing month  
+- 💼 The **Channel Partners segment** achieved the highest profit margin at **73%**, making it the most profitable customer group  
+- 🌍 **France** was the strongest market, contributing **22.4% of total profit**  
+- 📦 **Paseo** was the top-performing product, contributing **27.8% of total sales**  
+- 💰 Overall business performance generated **$16.89M Net Profit** with a **14% profit margin**
+
+---
+
+## 📊 Dashboard Overview
+
+### 🏠 Home Dashboard
+Provides a high-level summary of key KPIs including:
+- Units Sold  
+- Net Sales  
+- COGS  
+- Net Profit  
+
+![Home Dashboard](assets/01_Home.PNG)
+
+---
+
+### 📅 Period Analysis
+Tracks performance trends over time to identify:
+- Seasonal patterns  
+- Growth trends  
+- Revenue fluctuations  
+
+![Period Analysis](assets/02_Period.PNG)
+
+---
+
+### 👥 Segment Analysis
+Analyzes customer segments to identify:
+- High-value customers  
+- Most profitable segments  
+- Revenue contribution by segment  
+
+![Segment Analysis](assets/03_Segment.PNG)
+
+---
+
+### 🌍 Country Analysis
+Evaluates geographic performance to support:
+- Market expansion decisions  
+- Country-level profitability comparison  
+
+![Country Analysis](assets/04_Country.PNG)
+
+---
+
+### 📦 Product Analysis
+Highlights product-level performance:
+- Best-selling products  
+- Highest profit contributors  
+- Product revenue distribution  
+
+![Product Analysis](assets/05_Product.PNG)
+
+---
+
+### ℹ️ Help & Navigation
+Guides users on:
+- Using filters  
+- Navigating dashboards  
+- Understanding metrics  
+
+![Help Page](assets/06_Help.PNG)
+
+---
+
+## 🛠 Tools & Technologies
+
+- Microsoft Power BI  
+- Power Query (Data Cleaning & Transformation)  
+- DAX (Data Analysis Expressions)  
+- Microsoft Excel  
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Data Cleaning & Preparation  
+- Data Modeling & Relationships  
+- KPI Design & Calculation  
+- Business Intelligence Reporting  
+- DAX Measures Development  
+- Dashboard Design & UX Thinking  
+- Data Storytelling  
+- Insight Generation for Business Decisions  
+
+---
+
+## 📁 Project Structure
