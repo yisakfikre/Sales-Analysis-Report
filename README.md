@@ -48,7 +48,7 @@ Provides a high-level summary of key KPIs including:
 - COGS  
 - Net Profit  
 
-![Home Dashboard](assets/01_Home.PNG)
+![Home Dashboard](https://github.com/yisakfikred/sales-analysis-report/blob/main/assets/01_Home.PNG?raw=true)
 
 ---
 
@@ -58,7 +58,7 @@ Tracks performance trends over time to identify:
 - Growth trends  
 - Revenue fluctuations  
 
-![Period Analysis](assets/02_Period.PNG)
+![Period Analysis](https://github.com/yisakfikred/sales-analysis-report/blob/main/assets/02_Period.PNG?raw=true)
 
 ---
 
@@ -68,7 +68,7 @@ Analyzes customer segments to identify:
 - Most profitable segments  
 - Revenue contribution by segment  
 
-![Segment Analysis](assets/03_Segment.PNG)
+![Segment Analysis](https://github.com/yisakfikred/sales-analysis-report/blob/main/assets/03_Segment.PNG?raw=true)
 
 ---
 
@@ -77,7 +77,7 @@ Evaluates geographic performance to support:
 - Market expansion decisions  
 - Country-level profitability comparison  
 
-![Country Analysis](assets/04_Country.PNG)
+![Country Analysis](https://github.com/yisakfikred/sales-analysis-report/blob/main/assets/04_Country.PNG?raw=true)
 
 ---
 
@@ -87,7 +87,7 @@ Highlights product-level performance:
 - Highest profit contributors  
 - Product revenue distribution  
 
-![Product Analysis](assets/05_Product.PNG)
+![Product Analysis](https://github.com/yisakfikred/sales-analysis-report/blob/main/assets/05_Product.PNG?raw=true)
 
 ---
 
@@ -97,7 +97,7 @@ Guides users on:
 - Navigating dashboards  
 - Understanding metrics  
 
-![Help Page](assets/06_Help.PNG)
+![Help Page](https://github.com/yisakfikred/sales-analysis-report/blob/main/assets/06_Help.PNG?raw=true)
 
 ---
 
@@ -125,17 +125,17 @@ Guides users on:
 
 ## 📁 Project Structure
 Sales-Analysis-Report/
-│
-├── Sales_Report.pbix
-├── README.md
-│
-├── assets/
-│ ├── 01_Home.PNG
-│ ├── 02_Period.PNG
-│ ├── 03_Segment.PNG
-│ ├── 04_Country.PNG
-│ ├── 05_Product.PNG
-│ └── 06_Help.PNG
+####│
+####├── Sales_Report.pbix
+####├── README.md
+####│
+####├── assets/
+####│ ├── 01_Home.PNG
+####│ ├── 02_Period.PNG
+####│ ├── 03_Segment.PNG
+####│ ├── 04_Country.PNG
+####│ ├── 05_Product.PNG
+####│ └── 06_Help.PNG
 
 ---
 
