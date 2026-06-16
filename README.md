@@ -142,6 +142,12 @@ This project demonstrates the ability to:
 
 ---
 
+## 🙌 Connect With Me
+🔗 **GitHub:** [github.com/yisakfikre](https://github.com/yisakfikre)  
+🔗 **LinkedIn:** [linkedin.com/in/yisak-fikre-b806361bb](https://www.linkedin.com/in/yisak-fikre-b806361bb/)
+
+---
+
 ## 👤 Author
 
 **Yisak F.**  
