@@ -124,3 +124,41 @@ Guides users on:
 ---
 
 ## 📁 Project Structure
+Sales-Analysis-Report/
+│
+├── Sales_Report.pbix
+├── README.md
+│
+├── assets/
+│ ├── 01_Home.PNG
+│ ├── 02_Period.PNG
+│ ├── 03_Segment.PNG
+│ ├── 04_Country.PNG
+│ ├── 05_Product.PNG
+│ └── 06_Help.PNG
+
+---
+
+## 🚀 How to Use This Project
+
+1. Download the `.pbix` file  
+2. Open it in Power BI Desktop  
+3. Explore interactive dashboards using filters and slicers  
+
+---
+
+## 📌 Key Value of This Project
+
+This project demonstrates the ability to:
+
+- Convert raw data into business insights  
+- Build executive-level dashboards  
+- Communicate findings clearly for decision-makers  
+- Apply real-world business thinking to analytics  
+
+---
+
+## 👤 Author
+
+**Yisak F.**  
+Data Analyst | Power BI Developer  
