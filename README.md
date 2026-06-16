@@ -144,8 +144,9 @@ This project demonstrates the ability to:
 
 ## 🙌 Connect With Me
 🔗 **GitHub:** [github/yisakfikre](https://github.com/yisakfikre)  
-🔗 **LinkedIn:** [linkedin/yisakfikre](https://www.linkedin.com/in/yisak-fikre-b806361bb/)
 🔗 **Upwork:** [upwork/yisakfikre](https://www.upwork.com/freelancers/~018f77b25aa92fd189?mp_source=share)
+🔗 **LinkedIn:** [linkedin/yisakfikre](https://www.linkedin.com/in/yisak-fikre-b806361bb/)
+
 ---
 
 ## 👤 Author
