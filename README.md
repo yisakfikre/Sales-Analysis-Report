@@ -1,4 +1,4 @@
-# 📊 Sales Performance Analytics Dashboard (Power BI)
+# 📊 Sales Performance Analytics Report
 
 An interactive business intelligence dashboard built in Power BI to analyze sales performance across products, customer segments, countries, and time periods. This project transforms raw sales data into actionable insights for strategic decision-making.
 
