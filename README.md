@@ -125,17 +125,17 @@ Guides users on:
 
 ## 📁 Project Structure
 Sales-Analysis-Report/
-####│
-####├── Sales_Report.pbix
-####├── README.md
-####│
-####├── assets/
-####│ ├── 01_Home.PNG
-####│ ├── 02_Period.PNG
-####│ ├── 03_Segment.PNG
-####│ ├── 04_Country.PNG
-####│ ├── 05_Product.PNG
-####│ └── 06_Help.PNG
+###│
+###├── Sales_Report.pbix
+###├── README.md
+###│
+###├── assets/
+###│ ├── 01_Home.PNG
+###│ ├── 02_Period.PNG
+###│ ├── 03_Segment.PNG
+###│ ├── 04_Country.PNG
+###│ ├── 05_Product.PNG
+###│ └── 06_Help.PNG
 
 ---
 
