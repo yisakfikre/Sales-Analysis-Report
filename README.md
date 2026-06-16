@@ -152,6 +152,6 @@ Data Analyst | Power BI Developer
 ## 🙌 Connect With Me
 
 🔗 **GitHub:** [Github/Yisak-Fikre](https://github.com/yisakfikre)  
-🔗 **Email:** [Yisak Fikre](yisakfikre@outlook.com)  
 🔗 **Upwork:** [Upwork/Yisak-Fikre](https://www.upwork.com/freelancers/~018f77b25aa92fd189?mp_source=share)  
 🔗 **LinkedIn:** [Linkedin/Yisak-Fikre](https://www.linkedin.com/in/yisak-fikre-b806361bb/)  
+🔗 **Email:** [yisakfikre@outlook.com](yisakfikre@outlook.com)  
