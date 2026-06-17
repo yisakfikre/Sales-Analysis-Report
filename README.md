@@ -175,7 +175,7 @@ This project demonstrates the ability to:
 ## 👤 Author
 
 **Yisak F.**  
-Data Analyst | Power BI Developer
+Microsoft Certified Data Analyst | Power BI Developer
 
 ---
 
