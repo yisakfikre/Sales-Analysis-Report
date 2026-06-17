@@ -123,6 +123,13 @@ Guides users on:
 
 ---
 
+## Project Files
+
+- [Power BI Report](https://github.com/yisakfikre/Sales-Analysis-Report/blob/main/Reports/Sales_Analysis_Report.pbix)
+- [PDF Report](https://github.com/yisakfikre/Sales-Analysis-Report/blob/main/Reports/Sales_Analysis_Report.pdf)
+
+---
+
 ## 🚀 How to Use This Project
 
 1. Download the `.pbix` file  
@@ -139,13 +146,6 @@ This project demonstrates the ability to:
 - Build executive-level dashboards  
 - Communicate findings clearly for decision-makers  
 - Apply real-world business thinking to analytics  
-
----
-
-## Project Files
-
-- [Power BI Report](reports/Sales%20Analysis%20Report.pbix)
-- [PDF Report](reports/Sales%20Analysis%20Report.pdf)
 
 ---
 
