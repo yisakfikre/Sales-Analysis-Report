@@ -1,6 +1,6 @@
 # 📊 Sales Analysis Report
 
-An interactive business intelligence dashboard built in Power BI to analyze sales performance across products, customer segments, countries, and time periods. This project transforms raw sales data into actionable insights for strategic decision-making.
+An interactive business intelligence report built in Power BI to analyze sales performance across products, customer segments, countries, and time periods. This project transforms raw sales data into actionable insights for strategic decision-making.
 
 ---
 
@@ -13,13 +13,13 @@ Organizations often lack a clear, unified view of their sales performance across
 - Inefficient decision-making  
 - Limited visibility into market performance  
 
-This project addresses these challenges by building a centralized analytics dashboard for sales performance tracking.
+This project addresses these challenges by building a centralized analytics report for sales performance tracking.
 
 ---
 
 ## 🎯 Project Objective
 
-To design and develop a Power BI dashboard that enables stakeholders to:
+To design and develop a Power BI report that enables stakeholders to:
 
 - Monitor overall sales and profitability
 - Identify top-performing products and markets
@@ -139,6 +139,13 @@ This project demonstrates the ability to:
 - Build executive-level dashboards  
 - Communicate findings clearly for decision-makers  
 - Apply real-world business thinking to analytics  
+
+---
+
+## Project Files
+
+- [Power BI Report](reports/Sales%20Analysis%20Report.pbix)
+- [PDF Report](reports/Sales%20Analysis%20Report.pdf)
 
 ---
 
