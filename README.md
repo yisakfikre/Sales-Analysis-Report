@@ -155,7 +155,7 @@ Sales-Analysis-Report/
 
 ## 🚀 How to Use This Project
 
-1. Download the power bi (`.pbix`) file  
+1. Download the Power BI (`.pbix`) file  
 2. Open it in Power BI Desktop  
 3. Explore interactive dashboards using filters and slicers  
 
