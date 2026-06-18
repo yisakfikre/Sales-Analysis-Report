@@ -23,7 +23,7 @@ To design and develop a Power BI report that enables stakeholders to:
 
 ---
 
-## 📌 Key Business Insights
+## 📌 Key Insights
 
 - 📈 Sales peaked in **October 2022**, generating **175.9% higher revenue** than the lowest-performing month.  
 - 💼 The **Channel Partners segment** achieved the highest profit margin at **73%**, making it the most profitable customer group.  
