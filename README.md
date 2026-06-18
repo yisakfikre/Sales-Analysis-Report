@@ -6,13 +6,7 @@ An interactive business intelligence report built in Power BI to analyze sales p
 
 ## 🧩 Business Problem
 
-Organizations often lack a clear, unified view of their sales performance across regions, products, and customer segments. This leads to:
-
-- Missed revenue opportunities  
-- Poor understanding of profitable segments  
-- Inefficient decision-making  
-- Limited visibility into market performance  
-
+Organizations often struggle to understand which products, customer segments, countries, and time periods drive revenue and profitability. Without a centralized view of performance, decision-makers may miss opportunities to improve sales, optimize product strategy, and maximize profit.
 This project addresses these challenges by building a centralized analytics report for sales performance tracking.
 
 ---
