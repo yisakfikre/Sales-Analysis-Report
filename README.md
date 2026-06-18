@@ -31,11 +31,11 @@ To design and develop a Power BI report that enables stakeholders to:
 
 ## 📌 Key Business Insights
 
-- 📈 Sales peaked in **October 2022**, generating **175.9% higher revenue** than the lowest-performing month  
-- 💼 The **Channel Partners segment** achieved the highest profit margin at **73%**, making it the most profitable customer group  
-- 🌍 **France** was the strongest market, contributing **22.4% of total profit**  
-- 📦 **Paseo** was the top-performing product, contributing **27.8% of total sales**  
-- 💰 Overall business performance generated **$16.89M Net Profit** with a **14% profit margin**
+- 📈 Sales peaked in **October 2022**, generating **175.9% higher revenue** than the lowest-performing month.  
+- 💼 The **Channel Partners segment** achieved the highest profit margin at **73%**, making it the most profitable customer group.  
+- 🌍 **France** emerged as the strongest market, contributing **22.4% of total profit** while maintaining a profit margin of **16%**.  
+- 📦 **Paseo** was the top-performing product, generating **27.8% of total sales** and **28.4% of total profit**.  
+- 💰 The business generated **$16.89M Net Profit**, achieving an overall profit margin of **14%**.
 
 ---
 
